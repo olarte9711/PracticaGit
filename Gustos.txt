@@ -1,7 +1,6 @@
 Agua
 Cerveza
 
-
 Arroz
 Frijol
 Lenteja
@@ -11,7 +10,4 @@ Yuca
 Carne
 Pollo
 Pescado
-
-
-
 
